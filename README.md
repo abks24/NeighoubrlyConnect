@@ -29,11 +29,3 @@ Service Management: Workers can add and manage their services, while residents c
 User Roles: Distinct features and dashboards for Admins, Residents, and Workers.
 
 <br>
-
-Credentials
-For testing the application, you can use the following pre-defined credentials:
-
-Role	Email	Password
-Admin	admin@neighbourly.bd	Admin@2025
-Resident	resident@neighbourly.bd	Resident@2025
-Worker	worker@neighbourly.bd	Worker@2025
