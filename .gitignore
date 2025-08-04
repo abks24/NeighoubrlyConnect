@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env           # This line ignores the .env file
+# Example environment file (optional)
+.env.example   # This line ignores the .env.example file
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# npm/yarn/pnpm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# More OS files
+ehthumbs.db
+Icon?
